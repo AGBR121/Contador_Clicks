@@ -1,8 +1,9 @@
-# project-react2
-Este proyecto fue realizado en la libreria React, y se trata de un contador de clics que aumenta a medida que se presiona el boton, también tiene otro boton para reinciar el contador.
+El programa muestra el boton para contar clicks y una animación que hace más grande el número en el contador luego de ser presionado
 
+Ejecutar la Aplicación Para iniciar la aplicación, debes ejecutar el comando npm start en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado ctrl + ñ si tu teclado está en español y con ctrl + ` si tu teclado está en inglés.
 
-Para tener todas las dependencias necesarias, ejecutar el siguiente link: 
+La aplicación se abrirá automáticamente en el navegador configurado por defecto en tu dispositivo y se ejecutará en localhost:3000.
 
-- `npm install`
-https://camilomunozal.github.io/contador-de-clicks/
+Instalar Módulos Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando npm install en el terminal
+
+Visualisación en vivo: https://camilomunozal.github.io/contador-de-clicks/
